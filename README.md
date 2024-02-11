@@ -1,6 +1,6 @@
 Chardon (formerly SellIt): Donate & Help
 
-**Chardon**is a **React Native application under development** aiming to bridge the gap between **donors and those in need**, particularly individuals who lack access to technology. Originally known as "SellIt," the app has evolved from a platform for selling used items into a dedicated **donation app** designed to facilitate:
+**Chardon** is a **React Native application under development** aiming to bridge the gap between **donors and those in need**, particularly individuals who lack access to technology. Originally known as "SellIt," the app has evolved from a platform for selling used items into a dedicated **donation app** designed to facilitate:
 
 * **Listing donations:** Users can easily create listings specifying items like clothes, bags, furniture, etc., including quantity, description, and location.
 * **Fundraising campaigns:** Organizations and NGOs can launch fundraisers for specific causes, allowing direct monetary donations from users.
