@@ -3,7 +3,7 @@ import React, { Component, useEffect, useState } from 'react'
 import { KeyboardAvoidingView } from 'react-native'
 import { TextInput } from 'react-native'
 import { auth } from '../firebase'
-import { createUserWithEmailAndPassword, signInWithEmailAndPassword, onAuthStateChanged } from "firebase/auth";
+import { signInWithEmailAndPassword, onAuthStateChanged } from "firebase/auth";
 
 
 export default function LoginScreen({ navigation }) {
